@@ -6,7 +6,7 @@
   <version>1.0</version>
   <packaging>pom</packaging>
   <name>appengine-modules-sample-java</name>
-  
+
   <properties>
     <appengine.app.version>1</appengine.app.version>
     <appengine.target.version>1.9.15</appengine.target.version>
